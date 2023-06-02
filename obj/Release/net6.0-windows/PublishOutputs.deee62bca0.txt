@@ -1,5 +1,0 @@
-D:\RGSystem\RGCidadao\service\desktop\visualizador_imagens\visualizador_imagens\bin\Release\net6.0-windows\publish\visualizador_imagens.exe
-D:\RGSystem\RGCidadao\service\desktop\visualizador_imagens\visualizador_imagens\bin\Release\net6.0-windows\publish\visualizador_imagens.dll
-D:\RGSystem\RGCidadao\service\desktop\visualizador_imagens\visualizador_imagens\bin\Release\net6.0-windows\publish\visualizador_imagens.deps.json
-D:\RGSystem\RGCidadao\service\desktop\visualizador_imagens\visualizador_imagens\bin\Release\net6.0-windows\publish\visualizador_imagens.runtimeconfig.json
-D:\RGSystem\RGCidadao\service\desktop\visualizador_imagens\visualizador_imagens\bin\Release\net6.0-windows\publish\visualizador_imagens.pdb
