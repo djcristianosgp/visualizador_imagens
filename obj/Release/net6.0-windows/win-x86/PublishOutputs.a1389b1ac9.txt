@@ -1,0 +1,2 @@
+D:\RGSystem\RGCidadao\service\desktop\visualizador_imagens\visualizador_imagens\bin\Release\net6.0-windows\publish\win-x86\visualizador_imagens.pdb
+D:\RGSystem\RGCidadao\service\desktop\visualizador_imagens\visualizador_imagens\bin\Release\net6.0-windows\publish\win-x86\visualizador_imagens.exe
