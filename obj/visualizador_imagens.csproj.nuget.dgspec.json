@@ -1,25 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\RGSystem\\RGCidadao\\service\\desktop\\visualizador_imagens\\visualizador_imagens\\visualizador_imagens.csproj": {}
+    "C:\\RGSystemDev\\Fontes\\desktop\\visualizador_imagens\\visualizador_imagens.csproj": {}
   },
   "projects": {
-    "D:\\RGSystem\\RGCidadao\\service\\desktop\\visualizador_imagens\\visualizador_imagens\\visualizador_imagens.csproj": {
+    "C:\\RGSystemDev\\Fontes\\desktop\\visualizador_imagens\\visualizador_imagens.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RGSystem\\RGCidadao\\service\\desktop\\visualizador_imagens\\visualizador_imagens\\visualizador_imagens.csproj",
+        "projectUniqueName": "C:\\RGSystemDev\\Fontes\\desktop\\visualizador_imagens\\visualizador_imagens.csproj",
         "projectName": "visualizador_imagens",
-        "projectPath": "D:\\RGSystem\\RGCidadao\\service\\desktop\\visualizador_imagens\\visualizador_imagens\\visualizador_imagens.csproj",
-        "packagesPath": "C:\\Users\\DevReport01\\.nuget\\packages\\",
-        "outputPath": "D:\\RGSystem\\RGCidadao\\service\\desktop\\visualizador_imagens\\visualizador_imagens\\obj\\",
+        "projectPath": "C:\\RGSystemDev\\Fontes\\desktop\\visualizador_imagens\\visualizador_imagens.csproj",
+        "packagesPath": "C:\\Users\\djcri\\.nuget\\packages\\",
+        "outputPath": "C:\\RGSystemDev\\Fontes\\desktop\\visualizador_imagens\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
+          "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\DevReport01\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Users\\djcri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -28,11 +28,10 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "D:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.devexpress.com/AMskZhWucCf6UbNgGj8kbtGUTgMLi6kDQRYDfh8LLMPHvdwfpZ/api": {},
-          "https://pkgs.dev.azure.com/rgsystem/SDK/_packaging/RGSystemSDK/nuget/v3/index.json": {}
+          "https://nuget.devexpress.com/AMskZhWucCf6UbNgGj8kbtGUTgMLi6kDQRYDfh8LLMPHvdwfpZ/api/v3/index.json": {}
         },
         "frameworks": {
           "net6.0-windows7.0": {
@@ -44,6 +43,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -68,7 +72,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
